@@ -2,6 +2,8 @@
 
 Class project of SEIS 610 Software Engineering at the University of St. Thomas.
 
+For a description of what Genetic Programming is see the wikipedia article here: http://en.wikipedia.org/wiki/Genetic_programming.
+
 ## Problem Description
 
 Given a set of test data, where f(x) = (x^2 - 1) / 2, randomly generate a set of solutions. Evaluate each solution to see how closely it matches f(x) = (x^2 - 1) / 2. The genetic program should evolve the solutions until one is found that is equivalent to f(x) = (x^2 - 1) / 2.
